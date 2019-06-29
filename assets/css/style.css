@@ -1,0 +1,35 @@
+
+#jeopardytag{
+background-color: black !important;
+}
+
+#submitted, .correct0, .correct1, .correct2{
+  
+    display: none;
+}
+#number_correct {
+    visibility: hidden;
+}
+#namepage{
+    margin: 0% 5% 5% 5%;
+    width: 90%;
+}
+.namepage, #questionAnswers{
+    text-align: center; 
+}
+#countdown{
+    height: 32px;
+  Text-align: center;
+}
+#submit{
+    margin-left: 70%;
+}
+#instructions{ 
+    text-align: center;
+}
+body{
+    background-color: bisque;
+    background-image: url("../images/background.png");
+    background-size: 100%, 60%;
+ 
+}
